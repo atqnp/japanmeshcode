@@ -1,4 +1,3 @@
-#lv1 mesh plus csv
 import requests
 import pandas as pd
 import jismesh.utils as ju
